@@ -4,12 +4,11 @@
 
 ### 🚀 Backend & AI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;RAG+%7C+Vector+Databases+%7C+LangChain;Building+Practical+AI-Powered+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;AI+%7C+LangChain+%7C+LangGraph;Vector+Databases+%7C+Semantic+Search;Building+Practical+AI-Powered+Systems" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdur--Rafay--Hussain-black?style=for-the-badge&logo=github)](https://github.com/Abdur-Rafay-Hussain)
+<img src="https://komarev.com/ghpvc/?username=Abdur-Rafay-Hussain&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -17,109 +16,57 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Backend & AI Developer** focused on building practical and scalable applications using Python and modern AI technologies.
+Hi! I'm **Abdur Rafay Hussain**, a Backend & AI Developer passionate about building practical and intelligent software systems.
+
+I mainly work with **Python, FastAPI, PostgreSQL and modern AI technologies**.
+
+I'm interested in building scalable backend APIs, AI-powered applications, intelligent search systems and applications that connect AI models with real-world data.
+
+### 🔥 What I Work With
 
 - 🐍 Python Backend Development
-- ⚡ REST APIs with FastAPI
+- ⚡ FastAPI & REST APIs
 - 🗄️ PostgreSQL & SQLAlchemy
-- 🤖 Retrieval-Augmented Generation (RAG)
 - 🔎 Vector Databases & Semantic Search
 - 🧠 LangChain & LangGraph
+- 🤖 AI-powered applications
 - 🔌 Model Context Protocol (MCP)
-- 🚀 Always learning and building real-world projects
+- 📚 Document processing & retrieval
+- 🚀 Building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend Development
+### 💻 Programming & Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlalchemy,git,github" />
+</p>
 
-### 🤖 AI & RAG
+### 🤖 AI & Intelligent Systems
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Vector_Search-purple?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Experience with:**
-
-- Document loading & processing
-- Text chunking
+- LangChain
+- LangGraph
+- Vector Databases
 - Embeddings
-- Vector database storage
-- Similarity search
-- Semantic retrieval
-- Retrieval-Augmented Generation
-- Parent/child document retrieval
+- Semantic Search
+- Similarity Search
+- AI Agents
+- Model Context Protocol (MCP)
 
 ---
 
-## 🚀 Featured Projects
+## 🗄️ Database & Data
 
-### ⚡ FastAPI Backend Project
-
-A backend application built with **FastAPI** and **PostgreSQL**, focusing on REST API development and database integration.
-
-**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy
-
----
-
-### 🤖 RAG & Vector Database Projects
-
-Building AI applications that can store, search and retrieve information using:
-
-**Documents → Chunks → Embeddings → Vector Database → Similarity Search → LLM**
-
-**Tech:** Python • LangChain • RAG • Vector Databases
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdur-Rafay-Hussain&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rafay-Hussain&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abdur-Rafay-Hussain&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abdur-Rafay-Hussain/Abdur-Rafay-Hussain/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm always interested in **Backend Development, AI, RAG and building practical AI-powered systems.**
-
-📧 **Email:** YOUR_EMAIL
-
-🔗 **LinkedIn:** YOUR_LINKEDIN_URL
-
-⭐ If you find my projects useful, consider giving them a star!
-
-</div>
+```text
+PostgreSQL
+SQLAlchemy
+Vector Databases
+Embeddings
+Semantic Search
+Similarity Search
